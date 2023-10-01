@@ -1,4 +1,4 @@
-idpd == 0.13.9
+ipdb == 0.13.9
 flask 
 flask-sqlalchemy 
 flask-migrate 
