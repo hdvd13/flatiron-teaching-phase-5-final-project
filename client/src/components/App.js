@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Switch, Route } from "react-router-dom";
 
-function App() {
+const App = () => {
   return <h1>HoSsein`s Online store - Client</h1>;
 }
 
